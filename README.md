@@ -12,7 +12,7 @@ A powerful, user-friendly mod management application designed specifically for L
 
 I desire community support, and testing would be a massive help.
 
-It is under, as outlined by the original Vortex licence, under GNU GENERAL PUBLIC LICENCE V3.
+It is under, as outlined by the original Vortex licence, under GNU GENERAL PUBLIC LICENCE V3 now on.
 
 
 
@@ -27,4 +27,6 @@ Otherwsie sharing, using, and helping it is good too.
 1. **Go to "PYRAMODVortex-master" folder
 2. run "python3 start.py"
 3. **Run** 
-4. **Enjoy** 
+4. **Enjoy**
+5. 
+For it, go to my repo: https://drive.proton.me/urls/33TDA5M440#7JfDFOqr9HyD
