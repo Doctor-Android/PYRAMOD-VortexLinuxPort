@@ -1,4 +1,4 @@
-# PYRAMOD-Vortex Linux Modding Port
+# PYRAMOD-Vortex Linux Modding Port developed by BloodyOrange of BLUDSTAR
 Originally it´s own thing, it is now a port for Linux of Vortex, the popular modding tool.
 
 **Pyramod v1.0.0 -Vortex Linux Modding Port**
